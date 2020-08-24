@@ -1,6 +1,6 @@
 var Twitter = require('twitter');
 
-
+//Fill in these details from your twitter developer account
 var client = new Twitter({
   consumer_key: '',
   consumer_secret: '',
